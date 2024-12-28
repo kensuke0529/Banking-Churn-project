@@ -1,4 +1,4 @@
-# Banking Churn Project
+# Banking Churn Rate Analysis and Prediction Project
 
 ## Introduction
 This project provides an interactive Excel dashboard for analyzing customer churn in the banking sector. It allows users to explore various factors that contribute to churn rates, including salary, tenure, and age.
