@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Banking-Churn-project
-# Banking-Churn-project
-=======
 # Banking Churn Rate Analysis and Prediction Project
 
 ## Introduction
