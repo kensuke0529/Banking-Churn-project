@@ -13,8 +13,8 @@ This repository contains an interactive Excel dashboard for Banking Churn Projec
 - Churn Rate Correlation: Visualize the relationship between churn and factors like age, salary, and tenure.
 
 #### Preview
-![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/Dashboard.png)
-![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/dashboard.gif)
+![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/image/Dashboard.png)
+![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/image/dashboard.gif)
 
 #### How to Use
 1. Download the `.xlsx` file.
@@ -27,7 +27,7 @@ This repository contains an interactive Excel dashboard for Banking Churn Projec
 #### Explore Data Analysis
 - MIssing vlaues and Visualization
 
-![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/corr.png)
+![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/image/corr.png)
 
 #### Data Preprocessing
 - Add dummy values and separe train and test data. 
@@ -35,14 +35,11 @@ This repository contains an interactive Excel dashboard for Banking Churn Projec
 #### Modeling and Tuning
 - Logistic Regression and Random Forest
 
-![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/model.png)
+![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/image/model.png)
 
 - Model tuning by RandomizedSearchCV
   
-![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/modeling.png)
+![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/image/modeling.png)
 
 #### Feature Importances
-![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/importances.png)
-
->>>>>>> 4d16753f0237c21d6f0611536ac94ee5a11def01
-# Bank-churn-project
+![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/image/importances.png)
