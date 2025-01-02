@@ -22,7 +22,6 @@ This repository contains an interactive Excel dashboard for Banking Churn Projec
 3. Follow the instructions included in the file.
 
 
-
 ### Machine Learning Prediction
 
 #### Explore Data Analysis
@@ -34,8 +33,14 @@ This repository contains an interactive Excel dashboard for Banking Churn Projec
 - Add dummy values and separe train and test data. 
 
 #### Modeling and Tuning
-- Logistic Regression and Random Forest using RandomizedSearchCV.
+- Logistic Regression and Random Forest
+
+![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/model.png)
+
+- Model tuning by RandomizedSearchCV
   
+![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/modeling.png)
+
 #### Feature Importances
 ![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/importances.png)
 
