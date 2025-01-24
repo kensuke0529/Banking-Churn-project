@@ -48,5 +48,45 @@ This repository contains an interactive Excel dashboard for Banking Churn Projec
 #### Feature Importances
 ![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/importances.png)
 
->>>>>>> 4d16753f0237c21d6f0611536ac94ee5a11def01
 # Bank-churn-project
+
+### Project Overview
+This project focuses on predicting customer churn for a bank using machine learning techniques. By identifying at-risk customers, the bank can implement targeted retention strategies to reduce churn and increase customer loyalty.
+
+### Objectives
+- Develop a predictive model to classify customers as "churn" or "non-churn."
+- Evaluate model performance using accuracy, precision, recall, and F1 score.
+- Provide actionable insights to help the bank retain customers.
+
+### Model Training:
+- Algorithms explored: Logistic Regression, Random Forest, Gradient Boosting
+- Hyperparameter tuning: GridSearchCV
+
+### Evaluation Metrics:
+- Accuracy, Precision, Recall, F1 Score
+
+### Prediction performance
+Test Set Performance:
+Accuracy : 0.8285
+Precision: 0.8482
+Recall   : 0.8285
+F1 Score : 0.8356
+
+### Key Insights
+
+![image](image/output.png)
+- This chart shows that age, product number, and balance are the most significant factors influencing the model's predictions. Age impacts the model's output most, while credit_card, country_Spain, and country_France have minimal impacts. This indicates that focusing on the top features may yield the most meaningful improvements or insights.
+
+![image](image/bar.png)
+- Customers in the 40–50 age range are more likely to churn (orange bars) compared to other age groups. However, non-churning customers (blue bars) dominate across most age groups, with a significant peak in their early 30s.
+- Younger and older customers show relatively lower churn rates, indicating age may influence customer retention significantly.
+
+![image](image/dist.png)
+- A large portion of non-churning customers have a balance of 0, which significantly skews the data.
+- Churning customers are more evenly distributed across higher balance ranges, peaking between 100,000 and 150,000.
+The presence of churn in customers with a non-zero balance suggests that balance plays a role in churn behavior, but it may interact with other factors like customer engagement or service quality.
+
+
+### Results
+The final model demonstrates strong performance in identifying customers likely to churn. Precision and recall are balanced, making it suitable for retention strategies.
+
