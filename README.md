@@ -13,8 +13,6 @@ This repository contains an interactive Excel dashboard for Banking Churn Projec
 - Churn Rate Correlation: Visualize the relationship between churn and factors like age, salary, and tenure.
 
 #### Preview
-![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/image/Dashboard.png)
-![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/image/dashboard.gif)
 
 #### How to Use
 1. Download the `.xlsx` file.
@@ -27,37 +25,16 @@ This repository contains an interactive Excel dashboard for Banking Churn Projec
 #### Explore Data Analysis
 - MIssing vlaues and Visualization
 
-![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/image/corr.png)
+
 
 #### Data Preprocessing
 - Add dummy values and separe train and test data. 
 
 #### Modeling and Tuning
-- Logistic Regression and Random Forest
-
-![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/image/model.png)
-
-- Model tuning by RandomizedSearchCV
-  
-![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/image/modeling.png)
 
 #### Feature Importances
-<<<<<<< HEAD
-![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/importances.png)
 
-# Bank-churn-project
 
-### Project Overview
-This project focuses on predicting customer churn for a bank using machine learning techniques. By identifying at-risk customers, the bank can implement targeted retention strategies to reduce churn and increase customer loyalty.
-
-### Objectives
-- Develop a predictive model to classify customers as "churn" or "non-churn."
-- Evaluate model performance using accuracy, precision, recall, and F1 score.
-- Provide actionable insights to help the bank retain customers.
-
-### Model Training:
-- Algorithms explored: Logistic Regression, Random Forest, Gradient Boosting
-- Hyperparameter tuning: GridSearchCV
 
 ### Evaluation Metrics:
 - Accuracy, Precision, Recall, F1 Score
