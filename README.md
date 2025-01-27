@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Banking-Churn-project
-# Banking-Churn-project
-=======
 # Banking Churn Rate Analysis and Prediction Project
 
 ## Introduction
@@ -17,8 +13,8 @@ This repository contains an interactive Excel dashboard for Banking Churn Projec
 - Churn Rate Correlation: Visualize the relationship between churn and factors like age, salary, and tenure.
 
 #### Preview
-![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/Dashboard.png)
-![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/dashboard.gif)
+![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/image/Dashboard.png)
+![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/image/dashboard.gif)
 
 #### How to Use
 1. Download the `.xlsx` file.
@@ -31,7 +27,7 @@ This repository contains an interactive Excel dashboard for Banking Churn Projec
 #### Explore Data Analysis
 - MIssing vlaues and Visualization
 
-![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/corr.png)
+![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/image/corr.png)
 
 #### Data Preprocessing
 - Add dummy values and separe train and test data. 
@@ -39,13 +35,14 @@ This repository contains an interactive Excel dashboard for Banking Churn Projec
 #### Modeling and Tuning
 - Logistic Regression and Random Forest
 
-![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/model.png)
+![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/image/model.png)
 
 - Model tuning by RandomizedSearchCV
   
-![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/modeling.png)
+![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/image/modeling.png)
 
 #### Feature Importances
+<<<<<<< HEAD
 ![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/importances.png)
 
 # Bank-churn-project
@@ -90,3 +87,6 @@ The presence of churn in customers with a non-zero balance suggests that balance
 ### Results
 The final model demonstrates strong performance in identifying customers likely to churn. Precision and recall are balanced, making it suitable for retention strategies.
 
+=======
+![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/image/importances.png)
+# bank-churn-rate-project
