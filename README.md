@@ -13,28 +13,22 @@ This repository contains an interactive Excel dashboard for Banking Churn Projec
 - Churn Rate Correlation: Visualize the relationship between churn and factors like age, salary, and tenure.
 
 #### Preview
-
-#### How to Use
-1. Download the `.xlsx` file.
-2. Open it in Microsoft Excel.
-3. Follow the instructions included in the file.
-
+![Dashboard Screenshot](image/Dashboard.png)
 
 ### Machine Learning Prediction
 
 #### Explore Data Analysis
-- MIssing vlaues and Visualization
-
-
-
-#### Data Preprocessing
+- Missing vlaues and Visualization
 - Add dummy values and separe train and test data. 
 
 #### Modeling and Tuning
+- Logistic Regression 
+- Random Forests 
+- KNN
+- XGBoost model
 
 #### Feature Importances
-
-
+- RandomizedSearchCV
 
 ### Evaluation Metrics:
 - Accuracy, Precision, Recall, F1 Score
@@ -64,6 +58,3 @@ The presence of churn in customers with a non-zero balance suggests that balance
 ### Results
 The final model demonstrates strong performance in identifying customers likely to churn. Precision and recall are balanced, making it suitable for retention strategies.
 
-=======
-![Dashboard Screenshot](https://github.com/kensuke0529/Banking-Churn-project/blob/main/image/importances.png)
-# bank-churn-rate-project
