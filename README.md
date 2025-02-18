@@ -35,10 +35,13 @@ This repository contains an interactive Excel dashboard for Banking Churn Projec
 
 ### Prediction performance
 Test Set Performance:
-- Accuracy : 0.8285
-- Precision: 0.8482
-- Recall   : 0.8285
-- F1 Score : 0.8356
+
+- Accuracy :  0.812 -> 0.8285
+- Precision:  0.590 -> 0.8482
+- Recall   : 0.234 -> 0.8285
+- F1 Score : 0.335 -> 0.8356
+  
+Overall, every metrics improve and enable to predict more accurately.
 
 ### Key Insights
 
