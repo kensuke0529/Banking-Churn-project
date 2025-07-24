@@ -13,7 +13,7 @@ This repository contains an interactive Excel dashboard for Banking Churn Projec
 - Churn Rate Correlation: Visualize the relationship between churn and factors like age, salary, and tenure.
 
 #### Preview
-![Dashboard Screenshot](image/Dashboard.png)
+![alt text](image-1.png)))
 
 ### Machine Learning Prediction
 
